@@ -6,7 +6,7 @@
 A full-stack **CSE Department Management System** and a **Club Management System** with modern UI and real-time features.
 
 🏢 Work Experience  
-Worked on an **Integrated University Management System**, managing student, faculty, notice, and administrative modules.
+Worked on an **Integrated University Management System**, managing student, faculty and administrative modules.
 
 🧠 Thesis  
 Researching on **Zero Trust Architecture (ZTA)** focusing on secure system design and modern cybersecurity.
@@ -70,7 +70,7 @@ I turn complex ideas into clean and functional systems 🚀
 
 ### 🎓 CSE Department Management System  
 👉 Full academic system (Student, Faculty, Notice, Alumni, Batch, Supervisor)  
-👉 Laravel + AJAX + MySQL
+👉 Laravel + React + MySQL
 
 ### 🏢 Club Management System  
 👉 Manage clubs, members, roles, and events  
@@ -86,21 +86,6 @@ I turn complex ideas into clean and functional systems 🚀
 ---
 
 # 📊 GitHub Stats:
-
-![Stats](https://github-readme-stats.vercel.app/api?username=shafayethahmed&show_icons=true&theme=tokyonight)
-
 ![Streak](https://streak-stats.demolab.com?user=shafayethahmed&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shafayethahmed&layout=compact&theme=tokyonight)
 
-
----
-
-## 📈 Contribution Graph
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=shafayethahmed&theme=github-dark)
-
-
----
-
-[![](https://visitcount.itsvg.in/api?id=shafayethahmed&icon=0&color=0)](https://visitcount.itsvg.in)
